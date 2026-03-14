@@ -1,0 +1,14 @@
+{
+  "industry": [
+    "@example_industry_news",
+    "@example_analytics"
+  ],
+  "marketing": [
+    "@example_marketing",
+    "@example_digital"
+  ],
+  "experts": [
+    "@example_expert1",
+    "@example_expert2"
+  ]
+}
